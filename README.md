@@ -14,6 +14,9 @@ This repository contains a visualization of graduate statistics, including emplo
 
 * Tableau
 
+** Dashboard **
+![Screenshot 2024-08-04 124500](https://github.com/user-attachments/assets/d0246575-d267-4eb9-95f6-5277b5e286c1)
+
 **Key Insights:**
 
 * **Employment Income:** Median employment income five years after graduation is significantly higher than two years after graduation.
