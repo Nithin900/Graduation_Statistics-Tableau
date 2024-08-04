@@ -12,7 +12,7 @@ This repository contains a visualization of graduate statistics, including emplo
 
 **Tools Used:**
 
-* [Data visualization tool used to create the image]
+* Tableau
 
 **Key Insights:**
 
