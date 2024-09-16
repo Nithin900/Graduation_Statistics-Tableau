@@ -5,13 +5,26 @@
 
 This repository contains a visualization of graduate statistics, including employment income, educational qualifications, gender distribution, and field of study. The data is presented in a clear and concise manner, making it easy to understand and interpret.
 
+**Problem Statement**
+
+In a rapidly evolving job market, understanding how different factors such as education, gender, and field of study affect graduate employment outcomes is crucial. Employers, policymakers, and academic institutions need data-driven insights to make informed decisions about career planning, workforce development, and educational investments. However, accessing and interpreting this data can be challenging due to its complexity and volume.
+
+** Solution**
+This project offers an interactive and easy-to-understand visualization that analyzes key factors influencing graduate employment outcomes. By leveraging Tableau and publicly available data, we provide insights into:
+
+Median employment income after graduation.
+The impact of educational qualifications on income levels.
+Gender distribution across various fields of study.
+Popularity of different fields of study among graduates.
+The data visualization simplifies complex datasets into easily digestible insights, helping stakeholders make better decisions regarding education and career pathways.
 **Data Sources:**
 
 * https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2019031-eng.htm
 
 **Tools Used:**
 
-* Tableau
+* Tableau for data visualization
+* Python for initial data cleaning and manipulation (optional)
 
 **Graduate Statistics : Dashboard**
 ![Screenshot 2024-08-04 124500](https://github.com/user-attachments/assets/d0246575-d267-4eb9-95f6-5277b5e286c1)
