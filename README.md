@@ -9,7 +9,7 @@ This repository contains a visualization of graduate statistics, including emplo
 
 In a rapidly evolving job market, understanding how different factors such as education, gender, and field of study affect graduate employment outcomes is crucial. Employers, policymakers, and academic institutions need data-driven insights to make informed decisions about career planning, workforce development, and educational investments. However, accessing and interpreting this data can be challenging due to its complexity and volume.
 
-** Solution**
+**Solution**
 This project offers an interactive and easy-to-understand visualization that analyzes key factors influencing graduate employment outcomes. By leveraging Tableau and publicly available data, we provide insights into:
 
 Median employment income after graduation.
